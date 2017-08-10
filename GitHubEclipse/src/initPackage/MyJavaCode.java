@@ -6,7 +6,7 @@ public class MyJavaCode {
 		// TODO Auto-generated method stub
 		String[] str = {"akshay1, akshay2, akshay3, akshay4, akshay5"};
 		//display names - changes
-		//added code directly from Github
+		//Delete this comment: added code directly from Github
 		for(String str1: str)
 		{
 			System.out.println(str1);
