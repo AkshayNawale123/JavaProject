@@ -11,5 +11,4 @@ public class MyJavaCode {
 			System.out.println(str1);
 		}
 	}
-
 }
